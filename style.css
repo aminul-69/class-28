@@ -47,7 +47,7 @@
 .bt-custom{
     background-color: green;
     color: chartreuse;
-    transition: 5s ease;
+    transition: 1s ease;
     margin-bottom: 40px;
     border: none;
 }
@@ -114,4 +114,14 @@
     background-color: aqua;
     color: black;
     box-shadow: 20px 8px 20px aquamarine;
+}
+
+
+.h44{
+    font-weight: bolder;
+    font-weight:900;
+    font-style: oblique;
+    margin-bottom: 30px;
+    color: cadetblue;
+
 }
